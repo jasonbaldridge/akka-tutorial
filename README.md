@@ -1,4 +1,6 @@
 akka-tutorial
-=============
+==================
 
-Code for a tutorial for basic concepts working with Akka using Scala.
+A simple tutorial application for working with actors using Scala and Akka.
+
+More interesting stuff using actors to create a Twitter bot can be seen in the [tshrdlu](https://github.com/utcompling/tshrdlu) repository.
