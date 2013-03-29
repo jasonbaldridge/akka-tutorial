@@ -1,0 +1,1 @@
+The data in this directory comes from Jimmy Lin's [PageRank exercise](http://lintool.github.com/Cloud9/docs/exercises/pagerank.html). See that page for example output (which the Akka implementation in PageRank.scala also produces).
